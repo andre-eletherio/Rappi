@@ -37,13 +37,29 @@ Rodar o projeto:
 
 # `Imagens`
 ### Página Inicial
-<img src="./images-rep/home.png"/>
+<img src="./img/1hello.png"/>
 
-### Ao Capturar Pokémon
-<img src="./images-rep/gotcha.png"/>
+### Login
+<img src="./img/2login.png"/>
 
-### Página Detalhes Pokémon
-<img src="./images-rep/pokemonDetails.png"/>
+### Cadastro
+<img src="./img/3cadastro.png"/>
 
-### Página Pokédex
-<img src="./images-rep/pokedex.png"/>
+### Home
+<img src="./img/4home.png"/>
+
+### Busca por restaurante
+
+<img src="./img/5busca.png"/>
+
+### Página do restaurante
+
+<img src="./img/6restaurante.png"/>
+
+### Adicionar ao carrinho
+
+<img src="./img/7pedido.png"/>
+
+### Carrinho
+
+<img src="./img/8carrinho.png"/>
