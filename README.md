@@ -10,13 +10,6 @@ O projeto é um aplicativo de delivery de comida, com várias funcionalidades, d
 </br></br>
 Utilizando tecnologias como React, JS, HTML e CSS, desenvolvi todo o front-end, inspirado no já estabelecido "Rappi".
 
-# `Modo de usar`
-Ao iniciar a aplicação, o usuário é direcionado à página inicial do site, onde consegue ver uma lista com todos os pokémons.
-</br></br>
-Nessa página ele consegue clicar no botão "Detalhes" de cada pokemon, e então ser direcionado para outra página, que lista seus atributos, como: hp, ataque, defesa, também seus ataques e sprites.
-</br></br>
-Ainda na página inicial, é possível capturar um pokemon, clicando no botão "Capturar!". Ao fazê-lo, o pokemon capturado é adicionado a pokédex (lista de pokemons capturados), que pode ser acessada pelo botão "Pokédex", localizado no canto superior direito do site.
-
 # `Instalando e rodando o projeto`
 Fazer o clone do projeto:
 - git clone link-do-repositório
@@ -37,29 +30,29 @@ Rodar o projeto:
 
 # `Imagens`
 ### Página Inicial
-<img src="./img/1hello.png"/>
+<img width="40%" src="./img/1hello.jpg"/>
 
 ### Login
-<img src="./img/2login.png"/>
+<img width="40%" src="./img/2login.jpg"/>
 
 ### Cadastro
-<img src="./img/3cadastro.png"/>
+<img width="40%" src="./img/3cadastro.jpg"/>
 
 ### Home
-<img src="./img/4home.png"/>
+<img width="40%" src="./img/4home.jpg"/>
 
 ### Busca por restaurante
 
-<img src="./img/5busca.png"/>
+<img width="40%" src="./img/5busca.jpg"/>
 
 ### Página do restaurante
 
-<img src="./img/6restaurante.png"/>
+<img width="40%" src="./img/6restaurante.jpg"/>
 
 ### Adicionar ao carrinho
 
-<img src="./img/7pedido.png"/>
+<img width="40%" src="./img/7pedido.jpg"/>
 
 ### Carrinho
 
-<img src="./img/8carrinho.png"/>
+<img width="40%" src="./img/8carrinho.jpg"/>
